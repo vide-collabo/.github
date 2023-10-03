@@ -1,6 +1,6 @@
 # The Vide Collaboration Space
 
-Vide provides layers of abstraction for applications based on the principle of state-aware pure function composition, which target JavaScript or dotnet based runtimes using F#.
+Vide provides layers of abstraction for applications based on the principle of state-aware pure function composition, which target JavaScript or dotnet based runtimes.
 
 The principle fits well to all applications that are based on computations that require cyclic / multiple evaluations, where a computation is made up of pure functions that can retain their own local state from one evaluation to the next. It is thus well suited for various domains like digital signal processing, stream analysis and rule engines, reactive frontends, game engines, discrete simulation, and more.
 
