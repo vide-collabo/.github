@@ -16,6 +16,7 @@ There's a lot to do! There are many low-hanging fruits in the current implementa
 * Improve Vide DSP with signal processing low- and high level building blocks such as filters, phasers, reverbs or synthesis elements
 * Restart the Vide MAUI implementation (which is basically the thing for Avalonia, but with another API generator)
 * Improve the "docs" repo (I guess there's not so much to do; it's the famous last 20%)
+* Issues in this repo fot general Vide TODOs
 
 ### New Vide implementations
 
